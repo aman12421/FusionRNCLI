@@ -10,8 +10,10 @@
     "test": "jest"
   },
   "dependencies": {
+    "fusioncharts": "^3.20.0",
     "react": "18.2.0",
-    "react-native": "0.71.11"
+    "react-native": "0.71.11",
+    "react-native-fusioncharts": "^5.2.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
